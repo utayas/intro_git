@@ -2,3 +2,6 @@
 
 1回目の変更
 
+
+git add
+git commit
