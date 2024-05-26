@@ -5,3 +5,16 @@ git branch -M main
 
 
 git push -u origin main
+
+
+
+
+ESC
+i
+
+上で変更履歴を入力
+
+
+esc
+
+下で、:wq　で登録
